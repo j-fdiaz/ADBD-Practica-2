@@ -96,3 +96,9 @@ Un cliente puede comprar 1 o más medicamentos.
 | unidades     | Números enteros positivos<br> | 1, 2, 3, 4<br> |
 | fecha_compra | Fecha                         | "2025-01-01"   |
 | fecha_pago   | Fecha                         | "2025-01-01"   |
+
+## Modificación
+
+Añadir una entidad "enfermedad"
+
+![](./EsquemaMOD.png)
